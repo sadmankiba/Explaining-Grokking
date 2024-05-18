@@ -35,10 +35,17 @@ python3 training.py --init_from load --ckpt_name 'xy|y_f0.2_p97_b512_st50000_202
 
 # Results
 
-<img src="./figures/Acc.png" width="400" height="300">
-<img src="./figures/Loss.png" width="400" height="300">
-<img src="./figures/Norm.png" width="400" height="300">
-<img src="./figures/Loss-Function.png" width="400" height="300">
+<div style="display: flex; gap: 10px;">  
+    <img src="./figures/Acc.png" width="360" height="270">
+    <img src="./figures/Loss.png" width="360" height="270">
+</div>
+
+<div style="display: flex; gap: 10px;">  
+    <img src="./figures/Norm.png" width="360" height="270">
+    <img src="./figures/Loss-Function.png" width="360" height="270">
+</div>
+
+
 
 ## References
 
