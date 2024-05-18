@@ -45,7 +45,10 @@ python3 training.py --init_from load --ckpt_name 'xy|y_f0.2_p97_b512_st50000_202
     <img src="./figures/Loss-Function.png" width="360" height="270">
 </div>
 
+## Contributors
 
+* [Huanran Li](https://github.com/HuanranLi)
+* [Sadman Sakib](https://github.com/sadmankiba)
 
 ## References
 
